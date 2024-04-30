@@ -4,4 +4,4 @@ Web aplikacija je napravljena uz ASP.NET Core koristeći Razor Pages, SQL Databa
 
 Potrebni NuGet paketi: System.Data.SqlClient
 
-SQL dump se nalazi u SQLBookShop.txt (*potrebno promijeniti ConnectionString*)
+SQL dump se nalazi u SQLBookShop.txt 
